@@ -19,7 +19,7 @@ michael = {
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🌟 What I do: ###
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do: ###
 
 - 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (Finishes in March 2021)
 - 🎓 Master of IT @ RMIT (6 subjects in)
