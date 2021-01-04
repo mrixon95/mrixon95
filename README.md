@@ -1,3 +1,7 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Michael Rixon</h1>
+<h3 align="center">Back-end developer who aims to create cool apps</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrixon95" alt="sadanandpai" /> </p>
+
 ### Hi there 👋 Welcome to my github!
 
 ### 🌟 Fast Facts: ###
