@@ -32,5 +32,13 @@ michael = {
 - 🐤 Twitter: [@MRixon95](https://twitter.com/MRixon95)
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mrixon95&layout=compact&theme=radical)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrixon95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrixon95&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
