@@ -15,6 +15,22 @@
 
 - 🛠 Studying: Python, AWS, Docker, Kubernetes
 
+
+```python
+michael = {
+  age: 25,
+  city: 'Melbourne'
+  tools: ['Flask', 'Python', 'Java', 'PostgreSQL', 'Docker'],
+  architecture: ["AWS"],
+  coder_academy_projects: {
+                        term2: "Python API app on NBA statistics",
+                        term3: "Python Flask App based upon Linked-In",
+                      },
+  current_goal: "Looking for internship in backend development"
+}
+```
+
+
 ### 📫 How to reach me: ###
 
 - 👥 LinkedIn: [Michael Rixon](https://www.linkedin.com/in/michael-rixon-188934126/)
