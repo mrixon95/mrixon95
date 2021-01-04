@@ -2,7 +2,7 @@
 <h3 align="center">Back-end developer who aims to create cool apps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrixon95" alt="mrixon95" /> </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="center" width="500" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500" height="400">
 
 ## A bit about me...
 ```python
