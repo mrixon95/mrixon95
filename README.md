@@ -26,13 +26,6 @@ michael = {
 - 🏀 Play Basketball (socially...not professionally 🙄)
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's chat :) ###
-
-- 👥 <p align=center><a href="https://www.linkedin.com/in/michael-rixon-188934126"><img src="images/linkedin-original.svg" width=7%> LinkedIn: [Michael Rixon](https://www.linkedin.com/in/michael-rixon-188934126/)
-- 👍 Facebook: [Michael Rixon](https://www.facebook.com/mrixon1/) 
-- 🐤 Twitter: [@MRixon95](https://twitter.com/MRixon95)
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -41,5 +34,9 @@ michael = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrixon95&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+## You can find me on
+<p align=center><a href="https://www.linkedin.com/in/avinal/"><img src="images/linkedin-original.svg" width=7%></a><a href="https://www.instagram.com/avinal.k/"><img src="images/instagram.svg" width=7%></a><a href="https://twitter.com/Avinal_"><img src="images/twitter-original.svg" width=7%></a><a href="https://www.facebook.com/avinal.k"><img src="images/facebook-original.svg" width=7%></a></p>
 
 
