@@ -7,7 +7,7 @@
 ```python
 michael = {
   age: 25,
-  city: "Melbourne"
+  city: "Melbourne",
   tools: ["Flask", 'Python', "Java", "PostgreSQL", "Docker"],
   architecture: ["AWS"],
   coder_academy_projects: {
