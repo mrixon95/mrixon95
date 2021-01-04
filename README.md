@@ -1,20 +1,22 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github!
 
-<!--
-**mrixon95/mrixon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Fast Facts: ###
 
-Here are some ideas to get you started:
+- 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (Finishes in March 2021)
+- 🎓 Master of IT @ RMIT (6 subjects in)
+- 🏀 Basketball fanatic
+
+
+### 📅 Currently: ###
+
+- 🛠 Studying: Python, AWS, Docker, Kubernetes
+
+### 📫 How to reach me: ###
+
+- 👥 LinkedIn: [Michael Rixon](https://www.linkedin.com/in/michael-rixon-188934126/)
+- 👍 Facebook: [Michael Rixon](https://www.facebook.com/mrixon1/) 
+- 🐤 Twitter: [@MRixon95](https://twitter.com/MRixon95)
+
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
