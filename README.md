@@ -1,21 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Michael Rixon</h1>
 <h3 align="center">Back-end developer who aims to create cool apps</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrixon95" alt="sadanandpai" /> </p>
-
-### Hi there 👋 Welcome to my github!
-
-### 🌟 Fast Facts: ###
-
-- 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (Finishes in March 2021)
-- 🎓 Master of IT @ RMIT (6 subjects in)
-- 🏀 Basketball fanatic
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrixon95" alt="mrixon95" /> </p>
 
 
-### 📅 Currently: ###
-
-- 🛠 Studying: Python, AWS, Docker, Kubernetes
-
-
+### A bit about me...
 ```python
 michael = {
   age: 25,
@@ -30,6 +18,11 @@ michael = {
 }
 ```
 
+### 🌟 What I do: ###
+
+- 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (Finishes in March 2021)
+- 🎓 Master of IT @ RMIT (6 subjects in)
+- 🏀 Play Basketball (socially...not professionally 🙄)
 
 ### 📫 How to reach me: ###
 
