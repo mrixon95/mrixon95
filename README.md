@@ -36,7 +36,7 @@ michael = {
 </p>
 
 
-## You can find me on
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  You can find me on
 <p align=center><a href="https://www.linkedin.com/in/michael-rixon-188934126/"><img src="images/linkedin-original.svg" width=7%></a><a href="https://twitter.com/MRixon95"><img src="images/twitter-original.svg" width=7%></a><a href="https://www.facebook.com/mrixon1"><img src="images/facebook-original.svg" width=7%></a></p>
 
 
