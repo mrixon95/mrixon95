@@ -25,7 +25,8 @@ michael = {
 - 🎓 Master of IT @ RMIT (6 subjects in)
 - 🏀 Play Basketball (socially...not professionally 🙄)
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Come and say<b>hi</b> :) ###
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's chat :) ###
 
 - 👥 LinkedIn: [Michael Rixon](https://www.linkedin.com/in/michael-rixon-188934126/)
 - 👍 Facebook: [Michael Rixon](https://www.facebook.com/mrixon1/) 
