@@ -8,7 +8,7 @@
 michael = {
   age: 25,
   city: "Melbourne",
-  tools: ["Flask", 'Python', "Java", "PostgreSQL", "Docker"],
+  tools: ['Flask', 'Python', 'Java', 'PostgreSQL', 'Docker'],
   architecture: ["AWS"],
   coder_academy_projects: {
                         term2: "Python API app on NBA statistics",
