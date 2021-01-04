@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrixon95" alt="mrixon95" /> </p>
 
 
-### A bit about me...
+## A bit about me...
 ```python
 michael = {
   age: 25,
@@ -19,14 +19,14 @@ michael = {
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do: ###
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do: ###
 
 - 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (Finishes in March 2021)
 - 🎓 Master of IT @ RMIT (6 subjects in)
 - 🏀 Play Basketball (socially...not professionally 🙄)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -36,7 +36,7 @@ michael = {
 </p>
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  You can find me on
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  You can find me on
 <p align=center><a href="https://www.linkedin.com/in/michael-rixon-188934126/"><img src="images/linkedin-original.svg" width=7%></a><a href="https://twitter.com/MRixon95"><img src="images/twitter-original.svg" width=7%></a><a href="https://www.facebook.com/mrixon1"><img src="images/facebook-original.svg" width=7%></a></p>
 
 
