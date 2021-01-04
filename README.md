@@ -27,7 +27,7 @@ michael = {
 - 🏀 Play Basketball (socially...not professionally 🙄)
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="50"> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
